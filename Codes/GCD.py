@@ -12,4 +12,4 @@ def computeGCD(x,y):
     return gcd 
 a = int(input("Enter A : "))
 b = int(input("Enter B : ")) 
-print ("The gcd is : ",computeGCD(a,b)) 
+print ("The GCD is : ",computeGCD(a,b)) 
